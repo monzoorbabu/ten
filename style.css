@@ -1,0 +1,374 @@
+.box1{
+      width:240px;
+      height:238px;
+      background:red;
+      float:left;
+     box-sizing:border-box;
+      
+      
+      
+}
+.box2{
+      width:200px;
+      height:200px;
+      background:green;
+      margin:20px;
+      box-sizing:border-box; 
+      border:6px dotted blue;
+      background-clip:border-box;   
+}
+.box3{
+      width:240px;
+      height:238px;
+      background:red;
+      float:left;
+      
+      margin-left:10px;
+      
+      
+      
+}
+.box4{
+      width:200px;
+      height:200px;
+      background:green;
+      margin:20px;
+      box-sizing:border-box;
+      border:6px dotted blue;
+      background-clip:padding-box;   
+}
+.box5{
+      width:240px;
+      height:238px;
+      background:red;
+      float:left;
+      
+      margin-left:10px;
+      
+      
+      
+}
+.box6{
+      width:200px;
+      height:200px;
+      background:green;
+      margin:20px;
+      box-sizing:border-box;
+      border:6px dotted blue;
+      padding-top:20px;
+      padding-left:15px;
+      background-clip:content-box;   
+} 
+.new{
+    width:400px;
+    height:390px;
+    background:blue;
+    float:left;
+    
+}
+.new1{
+     width:300px;
+     height:300px;
+     background:green;
+     box-sizing:border-box;
+     border:10px dotted pink;
+     margin:40px;
+     background-clip:padding-box;
+    
+}
+.new2{
+       width:100px;
+     height:100px;
+     background:yellow;
+     box-sizing:border-box;
+     border:2px solid aqua;
+     font-family:impact;
+     font-size:20px;
+     background-clip:border-box;
+     padding-top:20px;
+     padding-left:55px;
+}
+.old{
+     width:300px;
+     height:280px;
+     background:#5be814;
+     float:left;
+}
+.olda{
+     width:250px;
+     height:250px;
+     background:blue;
+     box-sizing:border-box;
+     border:10px dotted red;
+     margin:20px;
+     background-clip:padding-box;
+}
+.old1{
+     width:100px;
+     height:100px;
+     background:aqua;
+     box-sizing:border-box;
+     border:2px solid green;
+     background-clip:padding-box;
+    
+}
+.content{
+         width:300px;
+         height:270px;
+         background:#0ecbed;
+         float:left;
+         margin-left:20px;
+        
+}
+.con1{
+      width:200px;
+      height:200px;
+      background:#3F0755;
+    margin:40px;
+      border:12px dotted green;
+      box-sizing:border-box;
+      background-clip:padding-box;
+}
+.con2{
+     width:130px;
+     height:100px;
+     background:white;
+     box-sizing:border-box;
+     background-clip:content-box;
+     font-size:20px;
+     font-family:impact;
+     padding-top:20px;
+     padding-left:50px;
+    
+}
+.b{
+   width:300px;
+   height:270px;
+   background:#410A0A;
+   float:left;
+   margin-left:10px;
+    
+}
+.c{
+    width:290px;
+    height:260px;
+    background:green;
+    box-sizing:border-box;
+    border:20px dotted pink;
+    margin:5px;
+    
+    
+}
+.d{
+    width:100px;
+    height:100px;
+    background:yellow;
+    box-sizing:border-box;
+    border:2px solid red;
+    background-clip:border-box;
+    font-family:impact;
+    font-size:20px;
+    padiing-top:10px;
+    padding-left:40px;
+}
+.e{
+   width:300px;
+   height:270px;
+   background:#410A0A;
+   float:left;
+   margin-left:10px;
+    
+}
+.f{
+    width:290px;
+    height:260px;
+    background:green;
+    box-sizing:border-box;
+    border:20px dotted pink;
+    margin:5px;
+    
+    
+}
+.g{
+    width:100px;
+    height:100px;
+    background:yellow;
+    box-sizing:border-box;
+   
+    background-clip:content-box;
+    font-family:impact;
+    font-size:20px;
+    padiing-top:10px;
+    padding-left:40px;
+    margin:20px;
+}
+.bs{
+   width:100%;
+   height:500px;
+   float:left;
+   background-image:url('img.jpg');
+   background-size:auto;
+   border:12px solid red;
+    background-repeat: no-repeat;
+}
+.bs1{
+    width:100%;
+   height:500px;
+   float:left;
+   background-image:url(download.jpg);
+   background-size:contain;
+   border:12px solid blue;
+   background-repeat: no-repeat;
+    
+}
+.bs2{
+    width:100%;
+   height:500px;
+   float:left;
+   background-image:url(maxresdefault.jpg);
+   background-size:cover;
+   border:12px solid green;
+   background-repeat: no-repeat;
+    
+}
+.bs3{
+    width:100%;
+    height:500px;
+    float:left;
+    background:black;
+    border:20px solid red;
+  
+
+    
+}
+h2{
+    background-image:  url(download.jpg);
+   -webkit-background-clip:text;
+    color:transparent;
+    font-size:200px;
+    box-sizing:border-box;
+    padding-left:200px;
+}
+.list{
+      width:200px;
+      height:200px;
+      float:left;
+      
+}
+ul{
+   list-style-image:url(icons8-cursor-48.png);
+    
+}
+.list1{
+    width:200px;
+      height:200px;
+      float:left;
+      
+}
+.a{
+   list-style-image:url(icons8-red-apple-48.png);
+    
+}
+.style1{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img1{
+      list-style-image: url(icons8-red-circle-48.png);
+}
+
+.style2{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img2{
+      list-style-image:url(icons8-right-arrow-48.png);
+}
+.style3{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img3{
+      list-style-image:url(icons8-star-48.png);
+}
+.style4{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img4{
+      list-style-image:url(icons8-up-down-right-arrow-arrows-48.png);
+}
+.style5{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img5{
+      list-style-image:url(icons8-wide-right-arrow-64.png);
+}
+.style6{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img6{
+      list-style-image:url(icons8-coronavirus-48.png);
+}
+.style7{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img7{
+      list-style-image:url(icons8-hand-wash-48.png);
+}
+.style8{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img8{
+      list-style-image:url(icons8-home-48.png);
+}
+.style9{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img9{
+      list-style-image:url(icons8-hospital-sign-48.png);
+}
+.style10{
+       width:200px;
+       height:200px;
+       float:left;
+}
+.img10{
+      list-style-image:url(icons8-protection-mask-50.png);
+}
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+    
+
+
